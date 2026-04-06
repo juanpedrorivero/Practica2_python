@@ -2,6 +2,7 @@
 ## Juan Pedro Rivero
 ### Resolucion de la practica 2 de Python
 
+[Enlace al video explicativo](https://drive.google.com/file/d/1P3yb17RKYi1KZfth9Ur-d5W53SWHxv1P/view?usp=sharing)
 
 Como crear un **venv** (*virtual enviroment*), como descargar los **requirements** y como ejecutar el proyecto.
  
@@ -36,3 +37,5 @@ poner en la consola:
 2. Navegá a la carpeta `notebooks/`
 3. Abrí el notebook del ejercicio que querés ejecutar
 4. Ejecutá las celdas con Shift+Enter o COntrol+Enter
+
+[def]: https://drive.google.com/file/d/1P3yb17RKYi1KZfth9Ur-d5W53SWHxv1P/view?usp=sharing
